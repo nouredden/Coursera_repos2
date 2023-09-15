@@ -1,7 +1,5 @@
-.div1 {
-font-size: 10px;
-font-family: 'Courier New', Courier, monospace;
-}
-h1{
-    color: chartreuse;
-}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif-ui;
+    background: #6795a3d3;
+    text-align: center;
+  }
